@@ -1,6 +1,7 @@
 ## Welcome to Math utility repository.This repo offers various math methods those are used as a helper for your project.
 
 
+
 ### You will find in this repo the following stuff:
 * .gitignore file itself to demonstrate how to ask the Git tool
 to upload a file or not
@@ -14,3 +15,4 @@ to upload a file or not
 [My email] (mailto: mmi01032001@gmailcom)
 
 © 2021 mi.mi
+
