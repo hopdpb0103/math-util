@@ -12,7 +12,7 @@ to upload a file or not
 
 ### Connect the via:
 [My facebook] (https://www.facebook.com/behama0103)
-[My email] (mailto: mmi01032001@gmailcom)
+[My email] (mailto: mmi01032001@gmail.com)
 
 © 2021 mi.mi
 
